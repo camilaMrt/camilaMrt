@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://github.com/camilaMrt">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=camilaMrt&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=vue"/>
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=vue"/>
   <h6>'</h6>
 </div>
 
