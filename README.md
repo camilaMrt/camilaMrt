@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/camilaMrt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaMrt&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaMrt&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=vue"/>
 </div>
   
   
@@ -29,8 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="camila-pic" height="150" style="border-radius:50px;" src="https://1drv.ms/u/s!AkhfNM1HjmcLhloa-JjX4QwJq7Eu?e=0GbJcr">
-  
+  <img align="right" alt="camila-pic" height="150" src="https://public.sn.files.1drv.com/y4mI-fi1q7E517hijpjkQbr4p-O6EYg1GVp4FxSRo6gd6t9AaXnlxdlMCLHkea4lpeaUVsLW4pOKUtH80LVSnHofw9uuRHuL2ih9-mKl73qnrGKNW5gcxXg57FggEwFj_urDRaEvKV8n73WzgPUliLHshRWiqIaH7wAjbVZK0trViOwylumhHpzfJKTuDBTsZbJ-YPa_ySShqSZu--eV9yHHw">
 </div>
   
   ##
