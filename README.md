@@ -1,29 +1,32 @@
 ### Olá, eu sou a Camila!   :v::sunglasses:♀️
-<h4>Sou desenvolvedora front-end e estou sempre estudando e aprendendo novas tecnologias. 💻📚❤</h4> <br>
+<h4>Sou desenvolvedora front-end e estou sempre estudando e aprendendo novas tecnologias. 💻📚❤</h4>
 
 ##
 
-🛠️ Tenho desenvolvido e trabalhado com as seguintes linguagens: <br>
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  🛠️  Tenho desenvolvido e trabalhado com as seguintes linguagens: &emsp;
+
+  <img width="70px" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img width="60px" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img width="100px" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div> 
 
 ##
 
-📌 Também tenho desenvolvido e trabalhado: <br>
-<div>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<div> 
+📌  Também tenho desenvolvido e trabalhado: &emsp;
+
+  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div> 
 
 ##
 
-📚 Próximas tecnologias que irei estudar:
 <div>
-  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img width="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+📚  Próximas tecnologias que irei estudar: &emsp;
+
+  <img width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img width="70px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
             
           
