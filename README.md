@@ -26,9 +26,11 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  
+<img align="right" alt="camila-pic" height="160" src="https://public.sn.files.1drv.com/y4mI-fi1q7E517hijpjkQbr4p-O6EYg1GVp4FxSRo6gd6t9AaXnlxdlMCLHkea4lpeaUVsLW4pOKUtH80LVSnHofw9uuRHuL2ih9-mKl73qnrGKNW5gcxXg57FggEwFj_urDRaEvKV8n73WzgPUliLHshRWiqIaH7wAjbVZK0trViOwylumhHpzfJKTuDBTsZbJ-YPa_ySShqSZu--eV9yHHw">
 </div>
 
-<img align="right" alt="camila-pic" height="160" src="https://public.sn.files.1drv.com/y4mI-fi1q7E517hijpjkQbr4p-O6EYg1GVp4FxSRo6gd6t9AaXnlxdlMCLHkea4lpeaUVsLW4pOKUtH80LVSnHofw9uuRHuL2ih9-mKl73qnrGKNW5gcxXg57FggEwFj_urDRaEvKV8n73WzgPUliLHshRWiqIaH7wAjbVZK0trViOwylumhHpzfJKTuDBTsZbJ-YPa_ySShqSZu--eV9yHHw">
  
  ##
  
@@ -39,4 +41,7 @@
   <a href="https://www.linkedin.com/in/camila-martins-rodrigues" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- ![Snake animation](https://github.com/camilaMrt/camilaMrt/blob/output/github-contribution-grid-snake.svg)
+<br><br><br><br>
+  ![Snake animation](https://github.com/camilaMrt/camilaMrt/blob/output/github-contribution-grid-snake.svg)
+
+
