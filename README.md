@@ -47,10 +47,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
-<img align="right" alt="camila-pic" height="160" src="https://public.sn.files.1drv.com/y4mI-fi1q7E517hijpjkQbr4p-O6EYg1GVp4FxSRo6gd6t9AaXnlxdlMCLHkea4lpeaUVsLW4pOKUtH80LVSnHofw9uuRHuL2ih9-mKl73qnrGKNW5gcxXg57FggEwFj_urDRaEvKV8n73WzgPUliLHshRWiqIaH7wAjbVZK0trViOwylumhHpzfJKTuDBTsZbJ-YPa_ySShqSZu--eV9yHHw">
+<img align="right" alt="camila-pic" height="160" src="blob:https://br.pinterest.com/2dda2b3a-0655-4e98-9f9a-82bc4d724fe7">
 </div>
 
- 
  ##
  
  <div>
