@@ -11,9 +11,9 @@
 <div><br>
   🛠️  Tenho desenvolvido e trabalhado com as seguintes linguagens: &emsp;
 
-  <img width="8%" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img width="6.8%" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img width="11.2%" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img width="61" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img width="53" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img width="87" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div> 
 
 ##
@@ -41,8 +41,8 @@
 
 <div align="center">
   <a href="https://github.com/camilaMrt">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=camilaMrt&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=vue"/>
+  <img align="left" width="46.5%" src="https://github-readme-stats.vercel.app/api?username=camilaMrt&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img align="right" width="46.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 <div>
