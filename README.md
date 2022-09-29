@@ -1,9 +1,14 @@
-### &emsp; Olá, eu sou a Camila!   :v::sunglasses:♀️
-<h4> &emsp; Sou desenvolvedora front-end e estou sempre estudando e aprendendo novas tecnologias. 💻📚❤</h4>
+
+<img align="right" src="https://i.picasion.com/pic92/4df642515b3aa1d802196046e4d7f2ad.gif" width="125" height="125" border="0">
+
+### &emsp;Olá, eu sou a Camila!   :v::sunglasses:♀️ 
+&emsp;Sou desenvolvedora front-end e estou sempre estudando e aprendendo novas tecnologias. 💻📚❤
+
+<br>
 
 ##
 
-<div>
+<div><br>
   🛠️  Tenho desenvolvido e trabalhado com as seguintes linguagens: &emsp;
 
   <img width="70px" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -13,7 +18,7 @@
 
 ##
 
-<div> 
+<div> <br>
 📌  Também tenho desenvolvido e trabalhado: &emsp;
 
   <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -36,19 +41,15 @@
 
 <div align="center">
   <a href="https://github.com/camilaMrt">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=camilaMrt&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=vue"/>
-  <h6>'</h6>
+  <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api?username=camilaMrt&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img align="right" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 <div>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
-<img align="right" alt="camila-pic" height="160" src="blob:https://br.pinterest.com/2dda2b3a-0655-4e98-9f9a-82bc4d724fe7">
-</div>
+  <img align="center" alt="Js" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div> 
 
  ##
  
