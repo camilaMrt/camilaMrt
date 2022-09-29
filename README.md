@@ -11,9 +11,9 @@
 <div><br>
   🛠️  Tenho desenvolvido e trabalhado com as seguintes linguagens: &emsp;
 
-  <img width="70px" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img width="60px" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img width="100px" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img width="8%" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img width="6.8%" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img width="11.2%" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div> 
 
 ##
@@ -41,23 +41,23 @@
 
 <div align="center">
   <a href="https://github.com/camilaMrt">
-  <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api?username=camilaMrt&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img align="right" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=vue"/>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=camilaMrt&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaMrt&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 <div>
-  <img align="center" alt="Js" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="100" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="100" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="100" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
 
  ##
  
  <div>
-   <a href="https://t.me/camila_mrt" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
- <a href="https://discordapp.com/users/933438241355493377" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caah.mrt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camila-martins-rodrigues" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://t.me/camila_mrt" target="_blank"> <img width="11.3%" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+ <a href="https://discordapp.com/users/933438241355493377" target="_blank"> <img width="10.5%" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:caah.mrt@gmail.com"> <img width="8.7%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camila-martins-rodrigues" target="_blank"> <img width="11.1%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <br><br><br><br>
